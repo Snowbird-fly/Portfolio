@@ -28,3 +28,4 @@
 
   **Используемые библиотеки:** pandas, numpy, stats, math, matplotlib, plotly
   
+[Дашборд в Tableau по данному проекту](https://public.tableau.com/app/profile/nadezhda.ivanova7552/viz/salesanalysiesinDIYretailshop/Dashboard1?publish=yes)
