@@ -1,3 +1,6 @@
+**Поскольку большинство графиков в данном проекте являются интерактивными и сделаны с помощью библиотеки Plotly, то проектследует смотреть через nbviewer**
+[открыть через nbviewer](https://nbviewer.org/github/Snowbird-fly/Portfolio/blob/ff4a9bf905fd417686d97e43f485bd1a3d7d654f/Loyalty_program/loyalty_program_analysis.ipynb)
+
 # Анализ программы лояльности магазина
 
 **Задача:** проанализировать программу лояльности розничного магазина для нахождения путей увеличения ее эффективности.
@@ -25,5 +28,3 @@
 
   **Используемые библиотеки:** pandas, numpy, stats, math, matplotlib, plotly
   
-**Поскольку большинство графиков в данном проекте являются интерактивными и сделаны с помощью библиотеки Plotly, то проектследует смотреть через nbviewer**
-[открыть через nbviewer](https://nbviewer.org/github/Snowbird-fly/Portfolio/blob/ff4a9bf905fd417686d97e43f485bd1a3d7d654f/Loyalty_program/loyalty_program_analysis.ipynb)
