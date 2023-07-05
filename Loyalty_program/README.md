@@ -29,5 +29,7 @@
     * price_per_one — стоимость одной единицы товара
 
   **Используемые библиотеки:** pandas, numpy, stats, math, matplotlib, plotly
+
+  **Статус проекта:** завершен
   
 [Дашборд в Tableau по данному проекту](https://public.tableau.com/app/profile/nadezhda.ivanova7552/viz/salesanalysiesinDIYretailshop/Dashboard1?publish=yes)
